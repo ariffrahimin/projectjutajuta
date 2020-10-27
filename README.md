@@ -1,8 +1,10 @@
 # projectjutajuta
 
-A new Flutter project.
+Its a basic Flutter project to learn about Tensorflow lite API.
 
-## Getting Started
+## The Mobile view
+
+
 
 This project is a starting point for a Flutter application.
 
