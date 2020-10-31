@@ -72,4 +72,3 @@ class BoundingBox extends StatelessWidget {
     );
   }
 }
-
