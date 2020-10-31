@@ -4,7 +4,7 @@ Its a basic Flutter project to learn about Tensorflow lite API.
 
 ## The Mobile view
 
-
+![alt text](https://github.com/ariffrahimin/projectjutajuta/blob/master/images/Capture.JPG)
 
 This project is a starting point for a Flutter application.
 
